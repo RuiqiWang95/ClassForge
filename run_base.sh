@@ -1,0 +1,1 @@
+python train.py --gpu-ids 0 1 --save-path confim_base --dataset CIFAR_FS --scale-const 10 --CF False

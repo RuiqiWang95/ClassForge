@@ -1,0 +1,1 @@
+python train.py --gpu-ids 0 1 --save-path confim_CF2 --dataset CIFAR_FS --scale-const 10 --CF True --CF-type CF_H --new-way 15
